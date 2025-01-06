@@ -1,0 +1,14 @@
+header, #logo, #webTitle, #headerLinks{
+    display: none;
+}
+
+aside, #searchBar, rightMenu{
+    display: none;
+}
+
+footer, #txtFooter, #iconFooter, #mapFooter{
+    display: none;
+}
+
+
+
